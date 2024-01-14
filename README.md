@@ -39,5 +39,4 @@ Code Structure
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/oms-bank.git
+   https://github.com/omawchar007/ATM-System
